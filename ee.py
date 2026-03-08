@@ -14,7 +14,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 if sys.platform == "win32":
     asyncio.set_event_loop_policy(asyncio.WindowsProactorEventLoopPolicy())
 
-TOKEN = "7722378149:AAFjOvBhy-2zNt3pUl78KJ3vs7Z1MFvTuAE"
+TOKEN = "8134663359:AAHO2X18N1YmPG0N9s0P1jcQJQm2YMMBGYs"
 OWNER_ID = 5879359815
 
 DB_FILE = "db.json"
